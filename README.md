@@ -1,5 +1,5 @@
 <!Github README>
-<img src="pics/tanzu.svg" alt="tanzu">
+<img src="pics/tanzu.svg" alt="tanzu"></img>
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tanzu-M5R&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzu-M5R&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -11,3 +11,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=tanzu-M5R&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=tanzu-M5R&icon=5&color=3)](https://visitcount.itsvg.in)
+</README>
